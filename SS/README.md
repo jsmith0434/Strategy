@@ -1,4 +1,4 @@
-## SS Pricing Strategy  
+## Pricing Strategy  
 
 ### Intro  
 This project was conducted to help a young NGO create a pricing strategy based on the price of their competitors. This was a volunter initiative that resulted in an optimized revenue stream, increased confidence in the business plan, and additional capacity to expand their community impact. Identifying information has been removed, changed, or obfuscated to protect privacy and preserve integrity.
