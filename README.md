@@ -22,4 +22,3 @@ If you're interested in discussing these methodologies or have a strategic chall
 
 -----
 
-**Would you like me to add a "Projected Impact" section to the Pricing Strategy project to show how much revenue a strategy like that could potentially unlock?**
